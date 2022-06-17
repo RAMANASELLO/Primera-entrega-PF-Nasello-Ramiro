@@ -7,8 +7,6 @@ let parrafo= document.createElement(`p`)
 parrafo.innerText="A continuacion se muestran los 4 productos a elegir"
 
 
-
-
 let deposito = [
   {
     sku: 1,
